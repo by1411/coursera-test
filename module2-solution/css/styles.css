@@ -13,14 +13,18 @@ h1 {
 	text-align: center;
 }
 
-p {
+section {
 	background-color: grey;
 	width: 90%;
     height: auto;
     border: 1px solid black;
     margin-bottom: 15px;
+    position: relative;
 }
 
+p {
+	padding: 5px;
+}
 #Chicken{
 	position: relative;
 	width: 40%;
