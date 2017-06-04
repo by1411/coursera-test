@@ -34,7 +34,7 @@ p {
 	top: 0;
 	right: 0;
 	text-align: center;
-	border-right: 1px solid black;
+	border-left: 1px solid black;
 	border-bottom: 1px solid black;
 }
 
@@ -46,7 +46,7 @@ p {
 	float: right;
 	text-align: center;
 	color: white;
-	border-right: 1px solid black;
+	border-left: 1px solid black;
 	border-bottom: 1px solid black;
 }
 
@@ -57,7 +57,7 @@ p {
 	background: yellow;
 	float: right;
 	text-align: center;
-	border-right: 1px solid black;
+	border-left: 1px solid black;
 	border-bottom: 1px solid black;
 }
 
