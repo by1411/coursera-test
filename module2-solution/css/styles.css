@@ -30,6 +30,7 @@ p {
 	top: 0;
 	right: 0;
 	text-align: center;
+	border: 1px solid black;
 }
 
 #Beef{
@@ -40,6 +41,7 @@ p {
 	float: right;
 	text-align: center;
 	color: white;
+	border: 1px solid black;
 }
 
 #Sushi{
@@ -49,6 +51,7 @@ p {
 	background: yellow;
 	float: right;
 	text-align: center;
+	border: 1px solid black;
 }
 
 /********** Large devices only **********/
