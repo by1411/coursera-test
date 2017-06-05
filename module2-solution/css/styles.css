@@ -1,11 +1,7 @@
-.row {
-	width: 100%;
-}
-
 * {
 	box-sizing: border-box;
 	font-family: Helvetica;
-	margin: auto;
+  margin: auto;
 }
 
 h1 {
@@ -13,13 +9,21 @@ h1 {
 	text-align: center;
 }
 
-section {
-	background-color: grey;
-	width: 90%;
-    height: auto;
-    border: 1px solid black;
-    margin-bottom: 15px;
-    position: relative;
+body {
+  padding: 15px;
+}
+
+.container {
+  padding: 5px;
+  
+}
+
+.section {
+  background-color: grey;
+  width: 100%;
+  height: auto;
+  border: 1px solid black;
+  margin-bottom: 15px;
 }
 
 p {
@@ -55,6 +59,9 @@ p {
 	text-align: center;
 }
 
+.row {
+  width: 100%;
+}
 /********** Large devices only **********/
 @media (min-width: 992px) {
   .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
@@ -139,4 +146,5 @@ p {
   .col-md-12 {
     width: 100%;
   }
+}
 }
