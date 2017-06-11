@@ -86,3 +86,8 @@ h2 {
 	margin: auto;
 	box-sizing: border-box;
 }
+
+#beef-list {
+	border-bottom: 1px solid #fff;
+	border-top: 1px solid #fff;
+}
